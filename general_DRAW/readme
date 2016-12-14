@@ -1,0 +1,7 @@
+This generalDRAW is based on the TensorFlow implementation of vanilla DRAW by https://github.com/ericjang/draw
+Usage:
+Use the main_generalDRAW.py in command line:
+
+python main_generaldraw.py True True 256 256 0.001 1000
+
+The input parameters are: encoder hidden dimension, decoder hidden dimension, learning rate, and learning iterations
